@@ -1,0 +1,7 @@
+uso 4 en si 
+* npm run deb
+* npm run build
+2 EN UNA MISMA TERMIAL
+* npx tsc
+* node build/server.js //esto va separado al copiar se junta
+
